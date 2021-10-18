@@ -48,7 +48,7 @@ public class FoodTruckApp {
 					if(trucks[i] == null) {
 						continue;
 					}
-					System.out.println(trucks[i]);
+					System.out.println(trucks[i].toString());
 				}
 
 				break;

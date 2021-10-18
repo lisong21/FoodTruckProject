@@ -56,4 +56,5 @@ public class FoodTruck {
 		return "FoodTruck [numericId=" + numericId + ", name=" + name + ", foodType=" + foodType + ", numericRating="
 				+ numericRating + "]";
 	}
+
 }
